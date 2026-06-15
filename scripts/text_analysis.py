@@ -107,7 +107,7 @@ if __name__ == "__main__":
         "data_raw/orban/orban_2025_state_of_the_nation.txt"
     ]
     magyar_speeches = [
-        "data_raw/magyar/magyar_2025_march_rally.txt",
+        "data_raw/magyar/magyar_2024_march_rally.txt",
         "data_raw/magyar/magyar_2026_march_rally.txt",
         "data_raw/magyar/magyar_2026_victory_speech.txt"
     ]
