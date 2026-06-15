@@ -16,3 +16,31 @@ The analysis script is configured to process the raw text corpus and survey para
 
 ## Research Affiliation
 *   **Lead Researcher:** Ábel Katona, Debrecen, Hungary
+
+*   
+
+*   ## Quantitative Research Findings & Output
+
+### 1. Corpus Text-Mining Performance (Linguistic Density Analysis)
+
+| File Name | Word Count | Absolute/Existential Density | Empirical/Procedural Density |
+| :--- | :--- | :--- | :--- |
+| `orban_2014_balvanyos.txt` | 5488 | 0.474% | 0.237% |
+| `orban_2023_state_of_the_nation.txt` | 6848 | 0.397% | 0.090% |
+| `orban_2025_state_of_the_nation.txt` | 5204 | 0.730% | 0.077% |
+| `magyar_2025_march_rally.txt` | 2028 | 0.806% | 0.000% |
+| `magyar_2026_march_rally.txt` | 4434 | 0.902% | 0.180% |
+| `magyar_2026_victory_speech.txt` | 2968 | 0.540% | 0.168% |
+
+### 2. Mixed-Methods Behavioral Survey Results (N=64 Target vs. Control)
+*   **Hungarian Cohort (N=44, Sub-Regional Conservative Stronghold Outlier):**
+    *   Mean Trust in National Government (1-5 Likert): **2.45 / 5.00**
+    *   Mean Trust in European Union Frameworks (1-5 Likert): **3.70 / 5.00**
+    *   Mean Trust in Regional Judiciary Systems (1-5 Likert): **2.91 / 5.00**
+    *   Mean Trust in State-Run News Media Outlets (1-5 Likert): **2.42 / 5.00**
+    *   Perceived Democratic Reality Score (1-5 Likert): **2.86 / 5.00**
+    *   Perceived Fair Election Score (1-5 Likert): **3.18 / 5.00**
+*   **International Control Group (N=20, Global Node Comparative Baseline):**
+    *   Mean Trust in Local Sovereign Government (1-5 Likert): **2.00 / 5.00**
+    *   Mean Trust in European Union Frameworks (1-5 Likert): **3.20 / 5.00**
+    *   Perceived Democratic Reality Score (1-5 Likert): **3.10 / 5.00**
