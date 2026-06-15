@@ -21,17 +21,20 @@ The analysis script is configured to process the raw text corpus and survey para
 
 ## Quantitative Research Findings & Output
 
+```text
 ==================================================================================
 File Name                             | Word Count   | Absolute Den | Empirical Den |
 ==================================================================================
 
 [THESIS: VIKTOR ORBAN CORPUS]
+
 | orban_2014_balvanyos.txt            | 5488         | 0.474       % | 0.237       % |
 | orban_2023_state_of_the_nation.txt  | 6048         | 0.397       % | 0.099       % |
 | orban_2025_state_of_the_nation.txt  | 5204         | 0.730       % | 0.077       % |
 
 [SYNTHESIS: PETER MAGYAR CORPUS]
-| magyar_2025_march_rally.txt         | 2020         | 0.396       % | 0.099       % |
+
+| magyar_2024_march_rally.txt         | 2020         | 0.396       % | 0.099       % |
 | magyar_2026_march_rally.txt         | 4434         | 0.902       % | 0.180       % |
 | magyar_2026_victory_speech.txt      | 2968         | 0.640       % | 0.168       % |
 
@@ -51,3 +54,4 @@ SOCIOLOGICAL LOCALIZED ADOLESCENT SURVEY ANALYSIS (N=64 TOTAL)
     Mean Trust in European Union (1-5 Scale):       3.20 / 5.0
     Perceived Democratic Reality Score (1-5 Scale): 3.10 / 5.0
 =================================================================
+```
