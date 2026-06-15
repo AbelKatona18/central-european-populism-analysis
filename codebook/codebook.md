@@ -7,11 +7,11 @@ This data pipeline tracks the quantitative linguistic transition of Hungarian po
 
 ### Variable 01: Cosmic/Absolute Truth Markers (ABS_MARK)
 * Definition: Textual units where the speaker claims a moral monopoly on absolute, historical, or non-falsifiable cosmic truths.
-* Target Keywords: always, never, eternal, cosmic, divine, empire, siege, betrayer, sacrilege, absolute, all.
+* Target Keywords: always, never, eternal, cosmic, divine, empire, siege, betrayer, sacrilege, absolute, all, historic, sovereignty, sacred.
 
 ### Variable 02: Empirical/Procedural Verification Markers (EMP_MARK)
 * Definition: Textual units where the speaker relies on legalistic, financial, mathematical, or structural data points to validate authority.
-* Target Keywords: data, percent, numbers, facts, audit, contract, procurement, court, billion, forint, ministry, laws, judiciary.
+* Target Keywords: data, percent, numbers, facts, audit, contract, procurement, court, billion, forint, ministry, laws, judiciary, institutions, accountable, referendum.
 
 ### Variable 03: Spatial Boundary Subversion (BOUND_SUB)
 * Definition: The tactical hijacking and localized domestication of an opponent's geographic boundary metrics (e.g., inverting "visible from the moon" to "visible from every Hungarian window").
