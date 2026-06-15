@@ -17,9 +17,9 @@ The analysis script is configured to process the raw text corpus and survey para
 ## Research Affiliation
 *   **Lead Researcher:** Ábel Katona, Debrecen, Hungary
 
-*   
+  
 
-*   ## Quantitative Research Findings & Output
+### Quantitative Research Findings & Output
 
 ### 1. Corpus Text-Mining Performance (Linguistic Density Analysis)
 
